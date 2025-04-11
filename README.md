@@ -18,8 +18,8 @@ Estudante de Ciência da Computação com experiência em desenvolvimento de sof
 
 ## 📫 Contato
 
-[![Linkedin: Meu Linkedin](https://img.shields.io/badge/-JoãoAssine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-assine-b35364227//)](https://www.linkedin.com/in/jo%C3%A3o-assine-b35364227/)
+[![Linkedin: Meu Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-assine-b35364227//)](https://www.linkedin.com/in/jo%C3%A3o-assine-b35364227/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AssineJ&layout=compact) <br><br>
 
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
+Muito obrigado, e seja bem vindo ao meu perfil! 😊
