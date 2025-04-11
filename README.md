@@ -2,8 +2,6 @@
 
 ## 🚀 Sobre mim
 
-Estudante de Ciência da Computação com experiência em desenvolvimento de software, análise de dados e suporte a banco de dados. Habilidades sólidas em SQL, programação para Web e aplicativos, além de familiaridade com computação em nuvem (AWS e Azure). Busco oportunidades para aprimorar minhas competências e contribuir para projetos inovadores no setor de tecnologia.
-
 - 💻 Estudante de Desenvolvimento em Inteligência Artificial
 - 🎓 Cursando Ciência da Computação (UNIP)
 
@@ -14,7 +12,7 @@ Estudante de Ciência da Computação com experiência em desenvolvimento de sof
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
 ## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,ubuntu,postman)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
