@@ -14,4 +14,3 @@
 ## 📫 Contato
 [![Linkedin: Meu Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-assine-b35364227//)](https://www.linkedin.com/in/jo%C3%A3o-assine-b35364227/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AssineJ&layout=compact) <br><br>
